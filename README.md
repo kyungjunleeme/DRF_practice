@@ -21,3 +21,7 @@ https://cdf.9vo.lt/
 https://www.jetbrains.com/pycharm/guide/tutorials/
 
 
+# rest api
+
+https://meetup.toast.com/posts/92
+
